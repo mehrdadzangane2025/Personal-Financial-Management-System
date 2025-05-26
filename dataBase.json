@@ -1,0 +1,52 @@
+{
+    "users": [
+        { "id": 1, "userName": "ali", "email": "ali@gmail.com" },
+        {
+            "id": "2d25f5d9-baec-442b-a33e-57d5ca432fb9",
+            "userName": "ali",
+            "email": "asd"
+        },
+        {
+            "id": "82504fc6-419e-44d3-beb7-8b55b6488ee0",
+            "userName": "ali",
+            "email": "ali"
+        }
+    ],
+    "darAmad": [{
+            "id": 1,
+            "mablagh": 1000,
+            "srcDarAmad": "part",
+            "tarikh": "1384/12/20",
+            "description": "be khater poroject"
+        },
+        {
+            "id": "6bb3f19b-ee79-443f-87d3-a77b3a76cc10",
+            "mablagh": "1000",
+            "srcDarAmad": "part",
+            "tarikh": "1404/12/1",
+            "description": "bedadsdad"
+        }
+    ],
+    "sbtHaz": [{
+            "id": "0b4ebaea-939d-4071-aaea-9e27fd0f517c",
+            "mablagh": "1000",
+            "daste": "kharid",
+            "tarikh": "1404/12/1",
+            "description": "bedadsdad"
+        },
+        {
+            "id": "f61d7419-6e63-4340-84ef-a5736d443d86",
+            "mablagh": "154000",
+            "daste": "mashin",
+            "tarikh": "1404/12/1",
+            "description": "bedadsdad"
+        },
+        {
+            "id": "2fc08a90-7cbe-426e-a80b-93f6c2373ff2",
+            "mablagh": "1000",
+            "daste": "HVN",
+            "tarikh": "1404/12/1",
+            "description": "bedadsdad"
+        }
+    ]
+}
