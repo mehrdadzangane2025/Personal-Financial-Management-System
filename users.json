@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "username": "mehrdad",
+    "email": "mehrrdadadasda",
+    "createdAt": "2025-06-12"
+  },
+  {
+    "id": 2,
+    "username": "asd",
+    "email": "asdasdasdsa",
+    "createdAt": "2025-06-12"
+  },
+  {
+    "id": 3,
+    "username": "asdsdsadadsadas",
+    "email": "adsdsadasasd",
+    "createdAt": "2025-06-12"
+  },
+  {
+    "id": 4,
+    "username": "asdsad",
+    "email": "asdsadsad",
+    "createdAt": "Thursday, 2025-06-12 13:45:40"
+  },
+  {
+    "id": 5,
+    "username": "asd",
+    "email": "asd",
+    "createdAt": "Thursday, 2025-06-12 13:45:54"
+  },
+  {
+    "id": 6,
+    "username": "asds",
+    "email": "asddsaasdasdas",
+    "createdAt": "Thursday, 2025-06-12 13:46:23"
+  },
+  {
+    "id": 7,
+    "username": "sg",
+    "email": "jk",
+    "createdAt": "Thursday, 2025-06-12 15:06:29"
+  }
+]

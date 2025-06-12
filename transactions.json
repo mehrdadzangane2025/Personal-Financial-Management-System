@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "type": "income",
+    "amount": 15,
+    "source": "part",
+    "description": "oioiuoi",
+    "date": "Thursday, 2025-06-12 15:13:56"
+  },
+  {
+    "id": 2,
+    "type": "income",
+    "amount": 1100000,
+    "source": "Part",
+    "description": "popopo",
+    "date": "Thursday, 2025-06-12 15:06:59"
+  },
+  {
+    "id": 3,
+    "type": "income",
+    "amount": 140000000,
+    "source": "Part",
+    "description": "po[ij;ojo;j",
+    "date": "Thursday, 2025-06-12 15:13:11"
+  }
+]
